@@ -1,2 +1,1 @@
-# TestM1
-Testing security features
+# Enabling alert when GHAS is turned off.
